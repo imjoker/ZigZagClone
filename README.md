@@ -1,6 +1,6 @@
 # ZiggyZaggy
 
-ZigggyZaggy is an endless platform game similar to ZigZag, where the player has to collect crystals to increase their score to set new high score.
+ZigggyZaggy is an endless platform game similar to ZigZag, where the player has to collect crystals to increase their score to set a new high score.
 
 ### Features include:
 - Procedural Map Generation using InvokeRepeating method.
