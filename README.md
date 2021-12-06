@@ -4,7 +4,7 @@ ZigggyZaggy is an endless platform game that is similar to ZigZag, where the pla
 
 ### Features include:
 - Procedural Map Generation using InvokeRepeating method.
-- Animation of the player character.
+- Animation of the player character using Animation Controller.
 - Particle effects for when players hits a crystal.
 - High score using Playerpreferences.
 - Camera follows the player.
